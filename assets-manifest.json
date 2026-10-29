@@ -1,0 +1,73 @@
+[
+  {
+    "file": "banner-dogs.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 265501,
+    "reference_wb_ids": [
+      791492005
+    ]
+  },
+  {
+    "file": "banner-cats.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 288555,
+    "reference_wb_ids": [
+      991906403
+    ]
+  },
+  {
+    "file": "cat-sweaters.jpg",
+    "width": 1050,
+    "height": 1500,
+    "bytes": 270977,
+    "reference_wb_ids": [
+      791492005
+    ]
+  },
+  {
+    "file": "cat-overalls.jpg",
+    "width": 1050,
+    "height": 1500,
+    "bytes": 294834,
+    "reference_wb_ids": [
+      301063532
+    ]
+  },
+  {
+    "file": "cat-tshirts.jpg",
+    "width": 1050,
+    "height": 1500,
+    "bytes": 294044,
+    "reference_wb_ids": [
+      241750885
+    ]
+  },
+  {
+    "file": "cat-beds.jpg",
+    "width": 1050,
+    "height": 1500,
+    "bytes": 395537,
+    "reference_wb_ids": [
+      991906403
+    ]
+  },
+  {
+    "file": "banner-custom-size.jpg",
+    "width": 1200,
+    "height": 900,
+    "bytes": 213782,
+    "reference_wb_ids": []
+  },
+  {
+    "file": "og-image.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 193065,
+    "reference_wb_ids": [
+      791492005,
+      991906403
+    ]
+  }
+]
